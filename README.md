@@ -23,7 +23,7 @@ No front-end, procuro combinar HTML semântico, CSS responsivo, JavaScript modul
 
 ## Projetos em destaque
 
-### [SkillMatch Web](https://github.com/Marcosdev0109/skillmatch-js) — projeto principal
+### [SkillMatch Web](https://github.com/Marcosdev0109/skillmatch-js) — projeto principal · [Demo ao vivo](https://marcosdev0109.github.io/skillmatch-js/)
 
 Aplicação web que compara o perfil de um candidato com vagas de front-end, calcula compatibilidade, identifica habilidades faltantes e sugere prioridades de estudo.
 
@@ -33,7 +33,7 @@ Aplicação web que compara o perfil de um candidato com vagas de front-end, cal
 - Interface responsiva com temas claro e escuro.
 - Validação acessível, persistência local e estados de carregamento/erro.
 
-### [Repo Finder](https://github.com/Marcosdev0109/js-buscador-de-repo)
+### [Repo Finder](https://github.com/Marcosdev0109/js-buscador-de-repo) · [Demo ao vivo](https://marcosdev0109.github.io/js-buscador-de-repo/)
 
 Buscador responsivo que consulta a API pública do GitHub e apresenta os repositórios mais estrelados para cada termo pesquisado.
 
@@ -61,10 +61,10 @@ Estudo guiado da DIO sobre orquestração de prompts e produção multimídia co
 
 Também mantenho projetos guiados que registram minha evolução em layout, responsividade e manipulação do DOM:
 
-- [Optimus Tech](https://github.com/Marcosdev0109/Optimus-Tech) — landing page responsiva de uma empresa de tecnologia e sua área de vagas.
-- [Arte no Muro](https://github.com/Marcosdev0109/Art-no-Muro) — galeria visual de arte urbana organizada com HTML e CSS.
+- [Optimus Tech](https://github.com/Marcosdev0109/Optimus-Tech) — landing page responsiva de uma empresa de tecnologia e sua área de vagas. [Ver demo](https://marcosdev0109.github.io/Optimus-Tech/)
+- [Arte no Muro](https://github.com/Marcosdev0109/Art-no-Muro) — galeria visual de arte urbana organizada com HTML e CSS. [Ver demo](https://marcosdev0109.github.io/Art-no-Muro/)
 - [Alura Plus](https://github.com/Marcosdev0109/Alura-cursos) — landing page extensa com seções promocionais e adaptação a diferentes dispositivos.
-- [Lista de Tarefas](https://github.com/Marcosdev0109/lista-de-tarefas) — aplicação JavaScript para adicionar, concluir e excluir tarefas.
+- [Lista de Tarefas](https://github.com/Marcosdev0109/lista-de-tarefas) — aplicação JavaScript para adicionar, concluir e excluir tarefas. [Ver demo](https://marcosdev0109.github.io/lista-de-tarefas/)
 - [Portfólio Joana Santos](https://github.com/Marcosdev0109/pagina-de-Joana-Santos) — primeiro estudo de portfólio publicado no GitHub Pages.
 
 ## Tecnologias e interesses
@@ -85,7 +85,7 @@ Também mantenho projetos guiados que registram minha evolução em layout, resp
 
 ## Em evolução
 
-- Publicação de demos acessíveis pelo navegador.
+- Desenvolvimento de novos projetos práticos com React.
 - Testes automatizados e integração contínua.
 - Consolidação de React por meio da formação Front-End do Programa SC Tech.
 - Evolução para desenvolvimento full stack.
